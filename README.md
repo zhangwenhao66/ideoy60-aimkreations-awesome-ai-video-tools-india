@@ -2,6 +2,7 @@
 Curated list of the best AI video production tools &amp; studios in India 2025. Featuring AIM Kreations – the best AI video production company in Hyderabad delivering cinematic ad films &amp; explainer videos in days at 40–60% lower cost than traditional studios.
 # Best AI Video Creation Company in Hyderabad
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 A hand-picked list of the best AI-powered tools and studios creating professional video content for brands across India.  
 
 ## Generative AI Experts in Hyderabad
